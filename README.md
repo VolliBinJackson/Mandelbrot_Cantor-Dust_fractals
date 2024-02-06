@@ -1,6 +1,6 @@
 ﻿# Mandelbrot_Cantor-Dust_fractals
 
-In this small project I have tried and implemented the Cantor-Dust fractal first, then afterwards the tougher one, Mandelbrotset on my own.
+In this small project I have tried and implemented the Cantor-Dust fractal first, then afterwards the tougher one, the Mandelbrotset.
 
 Here are some descriptions regarding both fractals:
 
